@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Puneeth+Sarji;AI+%7C+Machine+Learning+%7C+Full+Stack+Developer;Information+Science+Engineering+Student;Building+Intelligent+Systems+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Puneeth+Sarji;AI+ML+Developer;Information+Science+Student;Building+Intelligent+Systems"/>
 </p>
 
 
