@@ -4,16 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=200&section=header&text=Puneeth%20Sarji&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
-<!-- AI CODING ANIMATION -->
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
-
 <!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Puneeth+Sarji;AI+ML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Puneeth+Sarji;Full+Stack+Developer;Building+Intelligent+Systems"/>
 </p>
 
 ---
