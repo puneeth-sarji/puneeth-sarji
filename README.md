@@ -9,7 +9,7 @@ I am Puneeth Sarji from Siddaganga Institute of Technology, Tumkur, Karnataka, c
 
 I have experience working with technologies such as Python, JavaScript, MongoDB, and modern web frameworks. I enjoy building projects that solve real-world problems and continuously improving my problem-solving and algorithmic skills through platforms like LeetCode.
 
-I also have a strong understanding of core computer science concepts including Data Structures, Algorithms, and Embedded Systems.
+I also have a strong understanding of core computer science concepts including Data Structures, Algorithms, and Computer Networks.
 </ul>
 
 ---
@@ -21,7 +21,12 @@ I also have a strong understanding of core computer science concepts including D
 <a href="https://github.com/puneeth-sarji/Major-project.git">
   <img src="https://img.shields.io/badge/CLOUD%20SENTINEL-AI%20Threat%20Detection-blue?style=for-the-badge&logo=cloud&logoColor=white"/>
 </a>
-
+<a href="https://github.com/puneeth-sarji/newmini.git">
+  <img src="https://img.shields.io/badge/AI-Based SDN Controller-red?style=for-the-badge&logo=cloud&logoColor=grey"/>
+</a>
+<a href="https://github.com/puneeth-sarji/servon.git">
+  <img src="https://img.shields.io/badge/SERVON-blue?style=for-the-badge&logo=cloud&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -30,7 +35,7 @@ I also have a strong understanding of core computer science concepts including D
 
 <p>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:puneethsarji@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -38,7 +43,7 @@ I also have a strong understanding of core computer science concepts including D
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/puneeth_sarji/">
   <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -51,6 +56,7 @@ I also have a strong understanding of core computer science concepts including D
 ### Programming
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
@@ -77,6 +83,6 @@ I also have a strong understanding of core computer science concepts including D
 
 ## 🌐 Connect with Me
 
-- 📧 **Email:** your-email@gmail.com  
+- 📧 **Email:** puneethsarji@gmail.com
 - 💻 **GitHub:** https://github.com/puneeth-sarji  
-- 🔗 **LinkedIn:** Add your LinkedIn profile here
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/puneeth-sarji2345
